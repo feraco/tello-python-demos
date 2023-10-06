@@ -1,5 +1,5 @@
 # Tello Drone Python & Jupyter Notebooks 🚁🐍📓
-This repository provides various Python and Jupyter Notebook examples of how to code Tello drones using Python. These coding examples were created by Frederick Feraco and are utilized in the "Science of Drones" course, teaching science research students at Five Towns College 🏫🎓.
+This repository provides various Python and Jupyter Notebook examples of how to code Tello drones using Python. These coding examples were created by Frederick Feraco and are utilized in the "Science of Drones" course, teaching science research students at Walt WHitman HS and students at Five Towns College 🏫🎓.
 
 This repository provides various approaches to program DJI's Tello drone using Python and Jupyter Notebooks. Whether you are using pure Python scripts or leveraging the interactive capabilities of Jupyter Notebooks, you'll find valuable examples and methods to get the most out of your Tello drone programming experience.
 
