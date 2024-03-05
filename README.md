@@ -85,4 +85,4 @@ Created with ❤️ by Frederick Feraco.
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/[your-github-username]/tello-drone-python-jupyter.git
+   git clone [https://github.com/[your-github-username]/tello-drone-python-jupyter.git](https://github.com/feraco/tello-python-demos.git](https://github.com/feraco/tello-python-demos.git)https://github.com/feraco/tello-python-demos.git)
