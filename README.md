@@ -83,5 +83,44 @@ Created with ❤️ by Frederick Feraco.
 
 ## Getting Started
 
-1. **Clone the Repository:**
-   ```sh
+# Python Installation and Environment Setup
+
+## For macOS:
+
+### Install Python:
+1. Open Terminal.
+2. Check if Python is already installed: `python3 --version`.
+3. If not installed, use Homebrew to install Python: `brew install python3`.
+4. Verify the installation: `python3 --version`.
+
+### Create a Virtual Environment:
+1. Navigate to your project directory: `cd path/to/your-directory`.
+2. Create a virtual environment: `python3 -m venv myenv`.
+3. Activate the virtual environment: `source myenv/bin/activate`.
+
+### Clone the GitHub Repository:
+1. Clone the repository: `git clone https://github.com/feraco/tello-python-demos.git`.
+2. Navigate to the repository directory: `cd tello-python-demos`.
+
+### Install Requirements:
+1. Install the required packages: `pip install -r requirements.txt`.
+
+## For Windows:
+
+### Install Python:
+1. Download Python from [https://www.python.org/downloads/windows/](https://www.python.org/downloads/windows/).
+2. Run the installer and ensure to check "Add Python to PATH".
+3. Open Command Prompt and check Python version: `python --version`.
+
+### Create a Virtual Environment:
+1. Navigate to your project directory: `cd path\to\your-directory`.
+2. Create a virtual environment: `python -m venv myenv`.
+3. Activate the virtual environment: `.\myenv\Scripts\activate`.
+
+### Clone the GitHub Repository:
+1. Clone the repository: `git clone https://github.com/feraco/tello-python-demos.git`.
+2. Navigate to the repository directory: `cd tello-python-demos`.
+
+### Install Requirements:
+1. Install the required packages: `pip install -r requirements.txt`.
+
